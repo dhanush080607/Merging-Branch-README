@@ -6,4 +6,4 @@ This repository is created to demonstrate Git branching and merging.
 To understand how to create a new branch, modify files, commit changes, and merge branches in Git.
 
 ## Description
-The main branch contains the stable version of the project.
+The main branch contains the stable version of the project."Changes made in MITS Branch" 
